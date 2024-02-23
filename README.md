@@ -1,13 +1,16 @@
+
+
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Olá, meu nome é Raphael Monteiro</h1></summary>
+   
 </div>
 
 <!-- Presentation -->
 <p>
 
-  🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade de Informática e Adm. Paulista - <img align="center" alt="html5" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fiap-logo-novo.jpg" />
+  🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade de Informática e Adm. Paulista - FIAP
 
   💻 Desenvolvedor Web Front-End
 
@@ -31,10 +34,10 @@ atualmente estou curssando Analise e desenvolvimento de sistemas na Fiap, sou um
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raphaelmonteiro3/)
 
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
+## 🔥 Habilidades
+<!-- Habilidades: Linguagens de Programação -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h3>Linguagens de Programação</h3>
     <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
@@ -43,9 +46,9 @@ atualmente estou curssando Analise e desenvolvimento de sistemas na Fiap, sou um
     
   </div>
   
-  <!-- Skills: Tools & Frameworks -->
+  <!-- Habilidades: Ferramentas e Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
+    <h3>Ferramentas e Frameworks</h3>
     <img align="center" alt="VScode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="VStudio" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
     <img align="center" alt="Figma" height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-svg-vector.svg">
